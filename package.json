@@ -1,0 +1,15 @@
+{
+    "name": "cluster-environments"
+  , "version": "0.0.1"
+  , "description": "Plugin for cluster to load environment specific variables"
+  , "keywords": ["cluster", "environment", "variable"]
+  , "author": "Michael Shapiro <koudelka@ryoukai.net>"
+  , "dependencies": {
+      "cluster": "0.6.x"
+  }
+  , "devDependencies": {
+     "should" : "0.2.1"
+  }
+  , "main": "index"
+  , "engines": { "node": "0.4.x" }
+}

@@ -1,0 +1,10 @@
+[Tue, 19 Jul 2011 18:02:06 GMT] INFO Master loaded environment "development"
+[Tue, 19 Jul 2011 18:02:06 GMT] INFO master started
+[Tue, 19 Jul 2011 18:02:06 GMT] INFO spawned worker 0
+[Tue, 19 Jul 2011 18:02:06 GMT] DEBUG worker 0 connected
+[Tue, 19 Jul 2011 18:10:24 GMT] WARNING shutting down master
+[Tue, 19 Jul 2011 18:10:43 GMT] INFO Master loaded environment "development"
+[Tue, 19 Jul 2011 18:10:44 GMT] INFO master started
+[Tue, 19 Jul 2011 18:10:44 GMT] INFO spawned worker 0
+[Tue, 19 Jul 2011 18:10:44 GMT] DEBUG worker 0 connected
+[Tue, 19 Jul 2011 18:10:50 GMT] WARNING shutting down master

@@ -1,0 +1,4 @@
+Worker 0 pid(28271) loaded environment "development"
+{"externalHostname":"api.myApp.com","mongo":{"database":"myApp_development","collection":"junk","host":"mongo","port":27017},"hoptoad":{"apiKey":"ABCDEFGH"}}
+Worker 0 pid(28477) loaded environment "development"
+{"externalHostname":"api.myApp.com","mongo":{"database":"myApp_development","collection":"junk","host":"mongo","port":27017},"hoptoad":{"apiKey":"ABCDEFGH"}}
