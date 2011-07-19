@@ -16,7 +16,7 @@ config/development.js
       externalHostname: 'api.myApp.com',
 
       mongo: {
-        database: appName + '_' + env,
+        database: appName + '_development',
         collection: 'junk',
         host: 'mongo',
         port: 27017
@@ -26,6 +26,7 @@ config/development.js
         apiKey: 'ABCDEFGH'
       }
     }
+
 
 server.js
 
