@@ -1,3 +1,6 @@
+## Warning: I'm not convinced that this is the best approach, you probably shouldn't use this plugin.
+
+
 # cluster-environments
 
   Allows for loading environment-specific variables in Cluster.
